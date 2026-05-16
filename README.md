@@ -56,3 +56,4 @@ AWS EKS, EC2, ALB, IAM,
 kubectl, eksctl, Docker, nginx
 
 ## Screenshots
+https://github.com/Rajeshawscloude/kubernetes-eks-project/tree/main/screenshots
